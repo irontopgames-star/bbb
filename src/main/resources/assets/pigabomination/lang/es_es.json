@@ -1,0 +1,21 @@
+{
+  "itemGroup.pigabomination": "The Pig Abomination",
+  "entity.pigabomination.pig_abomination": "The Pig Abomination",
+  "item.pigabomination.pig_abomination_spawn_egg": "Huevo de The Pig Abomination",
+  "pigabomination.status": "Día %s, %s. Última noche iniciada: %s. Fase: %s",
+  "pigabomination.time.day": "de día",
+  "pigabomination.time.night": "de noche",
+  "pigabomination.phase.stalking": "acecho (noches 1 a 4)",
+  "pigabomination.phase.hunt": "caza final",
+  "pigabomination.phase.defeated": "jefe derrotado",
+  "pigabomination.reset.done": "Progreso de The Pig Abomination reiniciado.",
+  "pigabomination.encounter.ok": "Encuentro creado.",
+  "pigabomination.encounter.fail": "No encontré un lugar válido cerca de ti.",
+  "pigabomination.pig.ok": "Cerdo creado.",
+  "pigabomination.hunt.ok": "Transformación iniciada.",
+  "pigabomination.hunt.fail": "No encontré un lugar para la transformación.",
+  "pigabomination.boss.defeated": "La abominación ha caído. El cerdo no volverá.",
+  "entity.pigabomination.abomination": "The Pig Abomination",
+  "entity.pigabomination.animal_corpse": "Cadáver de animal",
+  "entity.pigabomination.animal_head": "Cabeza de animal"
+}

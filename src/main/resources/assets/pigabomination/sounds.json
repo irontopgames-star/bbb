@@ -1,0 +1,62 @@
+{
+  "entity.pigabomination.door_knock": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:door_knock"
+    ]
+  },
+  "entity.pigabomination.window_tap": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:window_tap"
+    ]
+  },
+  "entity.pigabomination.grunt": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:grunt"
+    ]
+  },
+  "entity.pigabomination.appear": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:appear"
+    ]
+  },
+  "entity.pigabomination.growl": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:growl"
+    ]
+  },
+  "entity.pigabomination.roar": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:roar"
+    ]
+  },
+  "entity.pigabomination.laugh": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:laugh"
+    ]
+  },
+  "entity.pigabomination.scream": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:scream"
+    ]
+  },
+  "entity.pigabomination.threat": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:threat"
+    ]
+  },
+  "entity.pigabomination.taunt": {
+    "category": "hostile",
+    "sounds": [
+      "pigabomination:taunt"
+    ]
+  }
+}

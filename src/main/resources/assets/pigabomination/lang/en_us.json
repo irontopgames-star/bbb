@@ -1,0 +1,21 @@
+{
+  "itemGroup.pigabomination": "The Pig Abomination",
+  "entity.pigabomination.pig_abomination": "The Pig Abomination",
+  "item.pigabomination.pig_abomination_spawn_egg": "The Pig Abomination Spawn Egg",
+  "pigabomination.status": "Day %s, %s. Last night started: %s. Phase: %s",
+  "pigabomination.time.day": "daytime",
+  "pigabomination.time.night": "nighttime",
+  "pigabomination.phase.stalking": "stalking (nights 1-4)",
+  "pigabomination.phase.hunt": "final hunt",
+  "pigabomination.phase.defeated": "boss defeated",
+  "pigabomination.reset.done": "The Pig Abomination progress has been reset.",
+  "pigabomination.encounter.ok": "Encounter created.",
+  "pigabomination.encounter.fail": "No valid spot found near you.",
+  "pigabomination.pig.ok": "Pig created.",
+  "pigabomination.hunt.ok": "Transformation started.",
+  "pigabomination.hunt.fail": "No place found for the transformation.",
+  "pigabomination.boss.defeated": "The abomination has fallen. The pig will not return.",
+  "entity.pigabomination.abomination": "The Pig Abomination",
+  "entity.pigabomination.animal_corpse": "Animal corpse",
+  "entity.pigabomination.animal_head": "Animal head"
+}
